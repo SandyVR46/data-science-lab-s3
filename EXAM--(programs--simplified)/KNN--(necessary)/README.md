@@ -1,1 +1,1 @@
-# ❗❗❗Download iris dataset from google.
+# ❗❗❗Download iris dataset.
